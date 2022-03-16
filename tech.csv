@@ -278,561 +278,561 @@
 "277","Engineering, R&D, Labs/Testing & Other","Employment","2018",25932
 "278","Engineering, R&D, Labs/Testing & Other","Employment","2019",28875
 "279","Engineering, R&D, Labs/Testing & Other","Employment","2020",30060
-"280","Total, All Industries","Firm","1990",16127
-"281","Total, All Industries","Firm","1991",17019
-"282","Total, All Industries","Firm","1992",17655
-"283","Total, All Industries","Firm","1993",18998
-"284","Total, All Industries","Firm","1994",20041
-"285","Total, All Industries","Firm","1995",21260
-"286","Total, All Industries","Firm","1996",22209
-"287","Total, All Industries","Firm","1997",24085
-"288","Total, All Industries","Firm","1998",24699
-"289","Total, All Industries","Firm","1999",25335
-"290","Total, All Industries","Firm","2000",26368
-"291","Total, All Industries","Firm","2001",26998
-"292","Total, All Industries","Firm","2002",27523
-"293","Total, All Industries","Firm","2003",28008
-"294","Total, All Industries","Firm","2004",29213
-"295","Total, All Industries","Firm","2005",30319
-"296","Total, All Industries","Firm","2006",31620
-"297","Total, All Industries","Firm","2007",34359
-"298","Total, All Industries","Firm","2008",34298
-"299","Total, All Industries","Firm","2009",34812
-"300","Total, All Industries","Firm","2010",35474
-"301","Total, All Industries","Firm","2011",36729
-"302","Total, All Industries","Firm","2012",38341
-"303","Total, All Industries","Firm","2013",40128
-"304","Total, All Industries","Firm","2014",42170
-"305","Total, All Industries","Firm","2015",44264
-"306","Total, All Industries","Firm","2016",46216
-"307","Total, All Industries","Firm","2017",48368
-"308","Total, All Industries","Firm","2018",50104
-"309","Total, All Industries","Firm","2019",52168
-"310","Total, All Industries","Firm","2020",54873
-"311","Manufacturing","Firm","1990",942
-"312","Manufacturing","Firm","1991",991
-"313","Manufacturing","Firm","1992",1046
-"314","Manufacturing","Firm","1993",1083
-"315","Manufacturing","Firm","1994",1114
-"316","Manufacturing","Firm","1995",1182
-"317","Manufacturing","Firm","1996",1227
-"318","Manufacturing","Firm","1997",1319
-"319","Manufacturing","Firm","1998",1340
-"320","Manufacturing","Firm","1999",1334
-"321","Manufacturing","Firm","2000",1353
-"322","Manufacturing","Firm","2001",1332
-"323","Manufacturing","Firm","2002",1309
-"324","Manufacturing","Firm","2003",1263
-"325","Manufacturing","Firm","2004",1262
-"326","Manufacturing","Firm","2005",1266
-"327","Manufacturing","Firm","2006",1276
-"328","Manufacturing","Firm","2007",1359
-"329","Manufacturing","Firm","2008",1353
-"330","Manufacturing","Firm","2009",1337
-"331","Manufacturing","Firm","2010",1312
-"332","Manufacturing","Firm","2011",1358
-"333","Manufacturing","Firm","2012",1376
-"334","Manufacturing","Firm","2013",1380
-"335","Manufacturing","Firm","2014",1401
-"336","Manufacturing","Firm","2015",1445
-"337","Manufacturing","Firm","2016",1494
-"338","Manufacturing","Firm","2017",1559
-"339","Manufacturing","Firm","2018",1624
-"340","Manufacturing","Firm","2019",1663
-"341","Manufacturing","Firm","2020",1742
-"342","TOTAL HIGH TECH","Firm","1990",1306
-"343","TOTAL HIGH TECH","Firm","1991",1462
-"344","TOTAL HIGH TECH","Firm","1992",1546
-"345","TOTAL HIGH TECH","Firm","1993",1711
-"346","TOTAL HIGH TECH","Firm","1994",1836
-"347","TOTAL HIGH TECH","Firm","1995",2111
-"348","TOTAL HIGH TECH","Firm","1996",2354
-"349","TOTAL HIGH TECH","Firm","1997",2633
-"350","TOTAL HIGH TECH","Firm","1998",2826
-"351","TOTAL HIGH TECH","Firm","1999",3049
-"352","TOTAL HIGH TECH","Firm","2000",3309
-"353","TOTAL HIGH TECH","Firm","2001",3392
-"354","TOTAL HIGH TECH","Firm","2002",3423
-"355","TOTAL HIGH TECH","Firm","2003",3398
-"356","TOTAL HIGH TECH","Firm","2004",3585
-"357","TOTAL HIGH TECH","Firm","2005",3706
-"358","TOTAL HIGH TECH","Firm","2006",3865
-"359","TOTAL HIGH TECH","Firm","2007",4320
-"360","TOTAL HIGH TECH","Firm","2008",4428
-"361","TOTAL HIGH TECH","Firm","2009",4528
-"362","TOTAL HIGH TECH","Firm","2010",4669
-"363","TOTAL HIGH TECH","Firm","2011",4858
-"364","TOTAL HIGH TECH","Firm","2012",5096
-"365","TOTAL HIGH TECH","Firm","2013",5389
-"366","TOTAL HIGH TECH","Firm","2014",5746
-"367","TOTAL HIGH TECH","Firm","2015",6179
-"368","TOTAL HIGH TECH","Firm","2016",6490
-"369","TOTAL HIGH TECH","Firm","2017",6814
-"370","TOTAL HIGH TECH","Firm","2018",7190
-"371","TOTAL HIGH TECH","Firm","2019",7681
-"372","TOTAL HIGH TECH","Firm","2020",8300
-"373","HIGH TECH MANUFACTURING","Firm","1990",227
-"374","HIGH TECH MANUFACTURING","Firm","1991",243
-"375","HIGH TECH MANUFACTURING","Firm","1992",260
-"376","HIGH TECH MANUFACTURING","Firm","1993",275
-"377","HIGH TECH MANUFACTURING","Firm","1994",276
-"378","HIGH TECH MANUFACTURING","Firm","1995",291
-"379","HIGH TECH MANUFACTURING","Firm","1996",319
-"380","HIGH TECH MANUFACTURING","Firm","1997",338
-"381","HIGH TECH MANUFACTURING","Firm","1998",358
-"382","HIGH TECH MANUFACTURING","Firm","1999",368
-"383","HIGH TECH MANUFACTURING","Firm","2000",373
-"384","HIGH TECH MANUFACTURING","Firm","2001",364
-"385","HIGH TECH MANUFACTURING","Firm","2002",360
-"386","HIGH TECH MANUFACTURING","Firm","2003",345
-"387","HIGH TECH MANUFACTURING","Firm","2004",339
-"388","HIGH TECH MANUFACTURING","Firm","2005",348
-"389","HIGH TECH MANUFACTURING","Firm","2006",348
-"390","HIGH TECH MANUFACTURING","Firm","2007",358
-"391","HIGH TECH MANUFACTURING","Firm","2008",359
-"392","HIGH TECH MANUFACTURING","Firm","2009",384
-"393","HIGH TECH MANUFACTURING","Firm","2010",378
-"394","HIGH TECH MANUFACTURING","Firm","2011",387
-"395","HIGH TECH MANUFACTURING","Firm","2012",387
-"396","HIGH TECH MANUFACTURING","Firm","2013",376
-"397","HIGH TECH MANUFACTURING","Firm","2014",374
-"398","HIGH TECH MANUFACTURING","Firm","2015",380
-"399","HIGH TECH MANUFACTURING","Firm","2016",390
-"400","HIGH TECH MANUFACTURING","Firm","2017",419
-"401","HIGH TECH MANUFACTURING","Firm","2018",433
-"402","HIGH TECH MANUFACTURING","Firm","2019",446
-"403","HIGH TECH MANUFACTURING","Firm","2020",472
-"404","HIGH TECH NONMANUFACTURING","Firm","1990",1078
-"405","HIGH TECH NONMANUFACTURING","Firm","1991",1219
-"406","HIGH TECH NONMANUFACTURING","Firm","1992",1286
-"407","HIGH TECH NONMANUFACTURING","Firm","1993",1435
-"408","HIGH TECH NONMANUFACTURING","Firm","1994",1559
-"409","HIGH TECH NONMANUFACTURING","Firm","1995",1820
-"410","HIGH TECH NONMANUFACTURING","Firm","1996",2035
-"411","HIGH TECH NONMANUFACTURING","Firm","1997",2295
-"412","HIGH TECH NONMANUFACTURING","Firm","1998",2468
-"413","HIGH TECH NONMANUFACTURING","Firm","1999",2681
-"414","HIGH TECH NONMANUFACTURING","Firm","2000",2936
-"415","HIGH TECH NONMANUFACTURING","Firm","2001",3027
-"416","HIGH TECH NONMANUFACTURING","Firm","2002",3062
-"417","HIGH TECH NONMANUFACTURING","Firm","2003",3053
-"418","HIGH TECH NONMANUFACTURING","Firm","2004",3245
-"419","HIGH TECH NONMANUFACTURING","Firm","2005",3358
-"420","HIGH TECH NONMANUFACTURING","Firm","2006",3516
-"421","HIGH TECH NONMANUFACTURING","Firm","2007",3962
-"422","HIGH TECH NONMANUFACTURING","Firm","2008",4069
-"423","HIGH TECH NONMANUFACTURING","Firm","2009",4144
-"424","HIGH TECH NONMANUFACTURING","Firm","2010",4291
-"425","HIGH TECH NONMANUFACTURING","Firm","2011",4470
-"426","HIGH TECH NONMANUFACTURING","Firm","2012",4709
-"427","HIGH TECH NONMANUFACTURING","Firm","2013",5013
-"428","HIGH TECH NONMANUFACTURING","Firm","2014",5372
-"429","HIGH TECH NONMANUFACTURING","Firm","2015",5798
-"430","HIGH TECH NONMANUFACTURING","Firm","2016",6100
-"431","HIGH TECH NONMANUFACTURING","Firm","2017",6395
-"432","HIGH TECH NONMANUFACTURING","Firm","2018",6757
-"433","HIGH TECH NONMANUFACTURING","Firm","2019",7235
-"434","HIGH TECH NONMANUFACTURING","Firm","2020",7827
-"435","High tech energy","Firm","1990",80
-"436","High tech energy","Firm","1991",77
-"437","High tech energy","Firm","1992",74
-"438","High tech energy","Firm","1993",79
-"439","High tech energy","Firm","1994",80
-"440","High tech energy","Firm","1995",84
-"441","High tech energy","Firm","1996",80
-"442","High tech energy","Firm","1997",82
-"443","High tech energy","Firm","1998",83
-"444","High tech energy","Firm","1999",83
-"445","High tech energy","Firm","2000",93
-"446","High tech energy","Firm","2001",102
-"447","High tech energy","Firm","2002",91
-"448","High tech energy","Firm","2003",91
-"449","High tech energy","Firm","2004",97
-"450","High tech energy","Firm","2005",99
-"451","High tech energy","Firm","2006",102
-"452","High tech energy","Firm","2007",119
-"453","High tech energy","Firm","2008",131
-"454","High tech energy","Firm","2009",139
-"455","High tech energy","Firm","2010",137
-"456","High tech energy","Firm","2011",134
-"457","High tech energy","Firm","2012",133
-"458","High tech energy","Firm","2013",137
-"459","High tech energy","Firm","2014",140
-"460","High tech energy","Firm","2015",137
-"461","High tech energy","Firm","2016",130
-"462","High tech energy","Firm","2017",116
-"463","High tech energy","Firm","2018",120
-"464","High tech energy","Firm","2019",118
-"465","High tech energy","Firm","2020",118
-"466","High tech trade","Firm","1990",94
-"467","High tech trade","Firm","1991",119
-"468","High tech trade","Firm","1992",123
-"469","High tech trade","Firm","1993",137
-"470","High tech trade","Firm","1994",130
-"471","High tech trade","Firm","1995",152
-"472","High tech trade","Firm","1996",188
-"473","High tech trade","Firm","1997",208
-"474","High tech trade","Firm","1998",218
-"475","High tech trade","Firm","1999",228
-"476","High tech trade","Firm","2000",263
-"477","High tech trade","Firm","2001",268
-"478","High tech trade","Firm","2002",267
-"479","High tech trade","Firm","2003",265
-"480","High tech trade","Firm","2004",290
-"481","High tech trade","Firm","2005",286
-"482","High tech trade","Firm","2006",306
-"483","High tech trade","Firm","2007",350
-"484","High tech trade","Firm","2008",355
-"485","High tech trade","Firm","2009",362
-"486","High tech trade","Firm","2010",390
-"487","High tech trade","Firm","2011",410
-"488","High tech trade","Firm","2012",426
-"489","High tech trade","Firm","2013",458
-"490","High tech trade","Firm","2014",492
-"491","High tech trade","Firm","2015",526
-"492","High tech trade","Firm","2016",554
-"493","High tech trade","Firm","2017",605
-"494","High tech trade","Firm","2018",671
-"495","High tech trade","Firm","2019",706
-"496","High tech trade","Firm","2020",773
-"497","High tech information & other IT","Firm","1990",330
-"498","High tech information & other IT","Firm","1991",389
-"499","High tech information & other IT","Firm","1992",440
-"500","High tech information & other IT","Firm","1993",507
-"501","High tech information & other IT","Firm","1994",578
-"502","High tech information & other IT","Firm","1995",705
-"503","High tech information & other IT","Firm","1996",817
-"504","High tech information & other IT","Firm","1997",976
-"505","High tech information & other IT","Firm","1998",1109
-"506","High tech information & other IT","Firm","1999",1255
-"507","High tech information & other IT","Firm","2000",1436
-"508","High tech information & other IT","Firm","2001",1475
-"509","High tech information & other IT","Firm","2002",1487
-"510","High tech information & other IT","Firm","2003",1475
-"511","High tech information & other IT","Firm","2004",1580
-"512","High tech information & other IT","Firm","2005",1620
-"513","High tech information & other IT","Firm","2006",1694
-"514","High tech information & other IT","Firm","2007",1970
-"515","High tech information & other IT","Firm","2008",2036
-"516","High tech information & other IT","Firm","2009",2093
-"517","High tech information & other IT","Firm","2010",2179
-"518","High tech information & other IT","Firm","2011",2328
-"519","High tech information & other IT","Firm","2012",2504
-"520","High tech information & other IT","Firm","2013",2695
-"521","High tech information & other IT","Firm","2014",2938
-"522","High tech information & other IT","Firm","2015",3248
-"523","High tech information & other IT","Firm","2016",3514
-"524","High tech information & other IT","Firm","2017",3756
-"525","High tech information & other IT","Firm","2018",3968
-"526","High tech information & other IT","Firm","2019",4327
-"527","High tech information & other IT","Firm","2020",4751
-"528","Engineering, R&D, Labs/Testing & Other","Firm","1990",573
-"529","Engineering, R&D, Labs/Testing & Other","Firm","1991",633
-"530","Engineering, R&D, Labs/Testing & Other","Firm","1992",648
-"531","Engineering, R&D, Labs/Testing & Other","Firm","1993",711
-"532","Engineering, R&D, Labs/Testing & Other","Firm","1994",770
-"533","Engineering, R&D, Labs/Testing & Other","Firm","1995",877
-"534","Engineering, R&D, Labs/Testing & Other","Firm","1996",948
-"535","Engineering, R&D, Labs/Testing & Other","Firm","1997",1028
-"536","Engineering, R&D, Labs/Testing & Other","Firm","1998",1057
-"537","Engineering, R&D, Labs/Testing & Other","Firm","1999",1113
-"538","Engineering, R&D, Labs/Testing & Other","Firm","2000",1142
-"539","Engineering, R&D, Labs/Testing & Other","Firm","2001",1181
-"540","Engineering, R&D, Labs/Testing & Other","Firm","2002",1216
-"541","Engineering, R&D, Labs/Testing & Other","Firm","2003",1221
-"542","Engineering, R&D, Labs/Testing & Other","Firm","2004",1278
-"543","Engineering, R&D, Labs/Testing & Other","Firm","2005",1352
-"544","Engineering, R&D, Labs/Testing & Other","Firm","2006",1413
-"545","Engineering, R&D, Labs/Testing & Other","Firm","2007",1522
-"546","Engineering, R&D, Labs/Testing & Other","Firm","2008",1545
-"547","Engineering, R&D, Labs/Testing & Other","Firm","2009",1549
-"548","Engineering, R&D, Labs/Testing & Other","Firm","2010",1584
-"549","Engineering, R&D, Labs/Testing & Other","Firm","2011",1597
-"550","Engineering, R&D, Labs/Testing & Other","Firm","2012",1645
-"551","Engineering, R&D, Labs/Testing & Other","Firm","2013",1721
-"552","Engineering, R&D, Labs/Testing & Other","Firm","2014",1802
-"553","Engineering, R&D, Labs/Testing & Other","Firm","2015",1885
-"554","Engineering, R&D, Labs/Testing & Other","Firm","2016",1900
-"555","Engineering, R&D, Labs/Testing & Other","Firm","2017",1918
-"556","Engineering, R&D, Labs/Testing & Other","Firm","2018",1996
-"557","Engineering, R&D, Labs/Testing & Other","Firm","2019",2083
-"558","Engineering, R&D, Labs/Testing & Other","Firm","2020",2183
-"559","Total, All Industries","Salary","1990",21918
-"560","Total, All Industries","Salary","1991",22906
-"561","Total, All Industries","Salary","1992",24230
-"562","Total, All Industries","Salary","1993",25168
-"563","Total, All Industries","Salary","1994",25630
-"564","Total, All Industries","Salary","1995",26930
-"565","Total, All Industries","Salary","1996",28750
-"566","Total, All Industries","Salary","1997",31148
-"567","Total, All Industries","Salary","1998",35543
-"568","Total, All Industries","Salary","1999",38945
-"569","Total, All Industries","Salary","2000",41015
-"570","Total, All Industries","Salary","2001",40829
-"571","Total, All Industries","Salary","2002",39540
-"572","Total, All Industries","Salary","2003",40736
-"573","Total, All Industries","Salary","2004",42152
-"574","Total, All Industries","Salary","2005",43644
-"575","Total, All Industries","Salary","2006",45966
-"576","Total, All Industries","Salary","2007",46725
-"577","Total, All Industries","Salary","2008",47596
-"578","Total, All Industries","Salary","2009",47468
-"579","Total, All Industries","Salary","2010",48939
-"580","Total, All Industries","Salary","2011",50520
-"581","Total, All Industries","Salary","2012",51986
-"582","Total, All Industries","Salary","2013",52296
-"583","Total, All Industries","Salary","2014",54199
-"584","Total, All Industries","Salary","2015",56340
-"585","Total, All Industries","Salary","2016",57277
-"586","Total, All Industries","Salary","2017",59740
-"587","Total, All Industries","Salary","2018",62298
-"588","Total, All Industries","Salary","2019",65832
-"589","Total, All Industries","Salary","2020",72090
-"590","Manufacturing","Salary","1990",31062
-"591","Manufacturing","Salary","1991",32970
-"592","Manufacturing","Salary","1992",35349
-"593","Manufacturing","Salary","1993",36362
-"594","Manufacturing","Salary","1994",37650
-"595","Manufacturing","Salary","1995",39763
-"596","Manufacturing","Salary","1996",42470
-"597","Manufacturing","Salary","1997",47821
-"598","Manufacturing","Salary","1998",60819
-"599","Manufacturing","Salary","1999",61951
-"600","Manufacturing","Salary","2000",64975
-"601","Manufacturing","Salary","2001",64216
-"602","Manufacturing","Salary","2002",64369
-"603","Manufacturing","Salary","2003",68434
-"604","Manufacturing","Salary","2004",73247
-"605","Manufacturing","Salary","2005",78735
-"606","Manufacturing","Salary","2006",88993
-"607","Manufacturing","Salary","2007",80050
-"608","Manufacturing","Salary","2008",81164
-"609","Manufacturing","Salary","2009",79086
-"610","Manufacturing","Salary","2010",85816
-"611","Manufacturing","Salary","2011",90204
-"612","Manufacturing","Salary","2012",90970
-"613","Manufacturing","Salary","2013",89906
-"614","Manufacturing","Salary","2014",92001
-"615","Manufacturing","Salary","2015",98232
-"616","Manufacturing","Salary","2016",95036
-"617","Manufacturing","Salary","2017",98652
-"618","Manufacturing","Salary","2018",99487
-"619","Manufacturing","Salary","2019",109164
-"620","Manufacturing","Salary","2020",113754
-"621","TOTAL HIGH TECH","Salary","1990",36392
-"622","TOTAL HIGH TECH","Salary","1991",37512
-"623","TOTAL HIGH TECH","Salary","1992",40272
-"624","TOTAL HIGH TECH","Salary","1993",41401
-"625","TOTAL HIGH TECH","Salary","1994",43371
-"626","TOTAL HIGH TECH","Salary","1995",45953
-"627","TOTAL HIGH TECH","Salary","1996",48755
-"628","TOTAL HIGH TECH","Salary","1997",56429
-"629","TOTAL HIGH TECH","Salary","1998",74570
-"630","TOTAL HIGH TECH","Salary","1999",85914
-"631","TOTAL HIGH TECH","Salary","2000",84920
-"632","TOTAL HIGH TECH","Salary","2001",81608
-"633","TOTAL HIGH TECH","Salary","2002",74307
-"634","TOTAL HIGH TECH","Salary","2003",78094
-"635","TOTAL HIGH TECH","Salary","2004",82123
-"636","TOTAL HIGH TECH","Salary","2005",86473
-"637","TOTAL HIGH TECH","Salary","2006",92131
-"638","TOTAL HIGH TECH","Salary","2007",89114
-"639","TOTAL HIGH TECH","Salary","2008",90593
-"640","TOTAL HIGH TECH","Salary","2009",91608
-"641","TOTAL HIGH TECH","Salary","2010",95725
-"642","TOTAL HIGH TECH","Salary","2011",98713
-"643","TOTAL HIGH TECH","Salary","2012",100857
-"644","TOTAL HIGH TECH","Salary","2013",97637
-"645","TOTAL HIGH TECH","Salary","2014",100422
-"646","TOTAL HIGH TECH","Salary","2015",104671
-"647","TOTAL HIGH TECH","Salary","2016",106745
-"648","TOTAL HIGH TECH","Salary","2017",113480
-"649","TOTAL HIGH TECH","Salary","2018",120377
-"650","TOTAL HIGH TECH","Salary","2019",127439
-"651","TOTAL HIGH TECH","Salary","2020",136541
-"652","HIGH TECH MANUFACTURING","Salary","1990",36203
-"653","HIGH TECH MANUFACTURING","Salary","1991",37793
-"654","HIGH TECH MANUFACTURING","Salary","1992",40706
-"655","HIGH TECH MANUFACTURING","Salary","1993",41997
-"656","HIGH TECH MANUFACTURING","Salary","1994",43817
-"657","HIGH TECH MANUFACTURING","Salary","1995",46116
-"658","HIGH TECH MANUFACTURING","Salary","1996",48859
-"659","HIGH TECH MANUFACTURING","Salary","1997",55930
-"660","HIGH TECH MANUFACTURING","Salary","1998",73243
-"661","HIGH TECH MANUFACTURING","Salary","1999",74355
-"662","HIGH TECH MANUFACTURING","Salary","2000",76787
-"663","HIGH TECH MANUFACTURING","Salary","2001",77566
-"664","HIGH TECH MANUFACTURING","Salary","2002",78239
-"665","HIGH TECH MANUFACTURING","Salary","2003",84717
-"666","HIGH TECH MANUFACTURING","Salary","2004",90559
-"667","HIGH TECH MANUFACTURING","Salary","2005",99046
-"668","HIGH TECH MANUFACTURING","Salary","2006",114800
-"669","HIGH TECH MANUFACTURING","Salary","2007",99948
-"670","HIGH TECH MANUFACTURING","Salary","2008",101923
-"671","HIGH TECH MANUFACTURING","Salary","2009",100128
-"672","HIGH TECH MANUFACTURING","Salary","2010",109526
-"673","HIGH TECH MANUFACTURING","Salary","2011",115398
-"674","HIGH TECH MANUFACTURING","Salary","2012",115504
-"675","HIGH TECH MANUFACTURING","Salary","2013",114824
-"676","HIGH TECH MANUFACTURING","Salary","2014",114865
-"677","HIGH TECH MANUFACTURING","Salary","2015",123534
-"678","HIGH TECH MANUFACTURING","Salary","2016",122053
-"679","HIGH TECH MANUFACTURING","Salary","2017",127482
-"680","HIGH TECH MANUFACTURING","Salary","2018",127895
-"681","HIGH TECH MANUFACTURING","Salary","2019",141476
-"682","HIGH TECH MANUFACTURING","Salary","2020",146171
-"683","HIGH TECH NONMANUFACTURING","Salary","1990",36618
-"684","HIGH TECH NONMANUFACTURING","Salary","1991",37149
-"685","HIGH TECH NONMANUFACTURING","Salary","1992",39696
-"686","HIGH TECH NONMANUFACTURING","Salary","1993",40635
-"687","HIGH TECH NONMANUFACTURING","Salary","1994",42775
-"688","HIGH TECH NONMANUFACTURING","Salary","1995",45737
-"689","HIGH TECH NONMANUFACTURING","Salary","1996",48622
-"690","HIGH TECH NONMANUFACTURING","Salary","1997",57017
-"691","HIGH TECH NONMANUFACTURING","Salary","1998",76060
-"692","HIGH TECH NONMANUFACTURING","Salary","1999",96228
-"693","HIGH TECH NONMANUFACTURING","Salary","2000",91287
-"694","HIGH TECH NONMANUFACTURING","Salary","2001",84487
-"695","HIGH TECH NONMANUFACTURING","Salary","2002",71945
-"696","HIGH TECH NONMANUFACTURING","Salary","2003",74374
-"697","HIGH TECH NONMANUFACTURING","Salary","2004",77476
-"698","HIGH TECH NONMANUFACTURING","Salary","2005",80030
-"699","HIGH TECH NONMANUFACTURING","Salary","2006",80571
-"700","HIGH TECH NONMANUFACTURING","Salary","2007",83995
-"701","HIGH TECH NONMANUFACTURING","Salary","2008",85485
-"702","HIGH TECH NONMANUFACTURING","Salary","2009",88098
-"703","HIGH TECH NONMANUFACTURING","Salary","2010",90304
-"704","HIGH TECH NONMANUFACTURING","Salary","2011",92325
-"705","HIGH TECH NONMANUFACTURING","Salary","2012",95395
-"706","HIGH TECH NONMANUFACTURING","Salary","2013",91611
-"707","HIGH TECH NONMANUFACTURING","Salary","2014",94810
-"708","HIGH TECH NONMANUFACTURING","Salary","2015",97911
-"709","HIGH TECH NONMANUFACTURING","Salary","2016",101881
-"710","HIGH TECH NONMANUFACTURING","Salary","2017",109129
-"711","HIGH TECH NONMANUFACTURING","Salary","2018",118066
-"712","HIGH TECH NONMANUFACTURING","Salary","2019",123276
-"713","HIGH TECH NONMANUFACTURING","Salary","2020",133783
-"714","High tech energy","Salary","1990",32191
-"715","High tech energy","Salary","1991",34066
-"716","High tech energy","Salary","1992",36570
-"717","High tech energy","Salary","1993",37316
-"718","High tech energy","Salary","1994",39442
-"719","High tech energy","Salary","1995",40434
-"720","High tech energy","Salary","1996",41559
-"721","High tech energy","Salary","1997",42833
-"722","High tech energy","Salary","1998",45055
-"723","High tech energy","Salary","1999",46216
-"724","High tech energy","Salary","2000",47612
-"725","High tech energy","Salary","2001",51678
-"726","High tech energy","Salary","2002",55727
-"727","High tech energy","Salary","2003",59961
-"728","High tech energy","Salary","2004",61134
-"729","High tech energy","Salary","2005",90518
-"730","High tech energy","Salary","2006",93929
-"731","High tech energy","Salary","2007",97458
-"732","High tech energy","Salary","2008",94339
-"733","High tech energy","Salary","2009",95423
-"734","High tech energy","Salary","2010",110400
-"735","High tech energy","Salary","2011",109716
-"736","High tech energy","Salary","2012",129803
-"737","High tech energy","Salary","2013",117073
-"738","High tech energy","Salary","2014",122957
-"739","High tech energy","Salary","2015",125225
-"740","High tech energy","Salary","2016",121905
-"741","High tech energy","Salary","2017",126174
-"742","High tech energy","Salary","2018",138144
-"743","High tech energy","Salary","2019",156586
-"744","High tech energy","Salary","2020",177637
-"745","High tech trade","Salary","1990",44732
-"746","High tech trade","Salary","1991",39843
-"747","High tech trade","Salary","1992",39762
-"748","High tech trade","Salary","1993",38618
-"749","High tech trade","Salary","1994",45512
-"750","High tech trade","Salary","1995",51543
-"751","High tech trade","Salary","1996",53091
-"752","High tech trade","Salary","1997",82127
-"753","High tech trade","Salary","1998",152328
-"754","High tech trade","Salary","1999",195150
-"755","High tech trade","Salary","2000",159287
-"756","High tech trade","Salary","2001",129299
-"757","High tech trade","Salary","2002",87165
-"758","High tech trade","Salary","2003",92865
-"759","High tech trade","Salary","2004",98413
-"760","High tech trade","Salary","2005",98370
-"761","High tech trade","Salary","2006",89312
-"762","High tech trade","Salary","2007",98850
-"763","High tech trade","Salary","2008",101597
-"764","High tech trade","Salary","2009",106626
-"765","High tech trade","Salary","2010",96973
-"766","High tech trade","Salary","2011",101408
-"767","High tech trade","Salary","2012",101884
-"768","High tech trade","Salary","2013",90534
-"769","High tech trade","Salary","2014",90345
-"770","High tech trade","Salary","2015",92815
-"771","High tech trade","Salary","2016",95042
-"772","High tech trade","Salary","2017",107826
-"773","High tech trade","Salary","2018",116906
-"774","High tech trade","Salary","2019",127188
-"775","High tech trade","Salary","2020",137145
-"776","High tech information & other IT","Salary","1990",36859
-"777","High tech information & other IT","Salary","1991",38924
-"778","High tech information & other IT","Salary","1992",42894
-"779","High tech information & other IT","Salary","1993",45058
-"780","High tech information & other IT","Salary","1994",46552
-"781","High tech information & other IT","Salary","1995",48722
-"782","High tech information & other IT","Salary","1996",51326
-"783","High tech information & other IT","Salary","1997",55963
-"784","High tech information & other IT","Salary","1998",61648
-"785","High tech information & other IT","Salary","1999",68560
-"786","High tech information & other IT","Salary","2000",73641
-"787","High tech information & other IT","Salary","2001",75650
-"788","High tech information & other IT","Salary","2002",73569
-"789","High tech information & other IT","Salary","2003",75008
-"790","High tech information & other IT","Salary","2004",76836
-"791","High tech information & other IT","Salary","2005",78344
-"792","High tech information & other IT","Salary","2006",83668
-"793","High tech information & other IT","Salary","2007",85321
-"794","High tech information & other IT","Salary","2008",87772
-"795","High tech information & other IT","Salary","2009",86656
-"796","High tech information & other IT","Salary","2010",91743
-"797","High tech information & other IT","Salary","2011",90869
-"798","High tech information & other IT","Salary","2012",94750
-"799","High tech information & other IT","Salary","2013",96797
-"800","High tech information & other IT","Salary","2014",99226
-"801","High tech information & other IT","Salary","2015",102989
-"802","High tech information & other IT","Salary","2016",108872
-"803","High tech information & other IT","Salary","2017",113983
-"804","High tech information & other IT","Salary","2018",123363
-"805","High tech information & other IT","Salary","2019",126752
-"806","High tech information & other IT","Salary","2020",137117
-"807","Engineering, R&D, Labs/Testing & Other","Salary","1990",34201
-"808","Engineering, R&D, Labs/Testing & Other","Salary","1991",35713
-"809","Engineering, R&D, Labs/Testing & Other","Salary","1992",37861
-"810","Engineering, R&D, Labs/Testing & Other","Salary","1993",38277
-"811","Engineering, R&D, Labs/Testing & Other","Salary","1994",39379
-"812","Engineering, R&D, Labs/Testing & Other","Salary","1995",41924
-"813","Engineering, R&D, Labs/Testing & Other","Salary","1996",44960
-"814","Engineering, R&D, Labs/Testing & Other","Salary","1997",47732
-"815","Engineering, R&D, Labs/Testing & Other","Salary","1998",49136
-"816","Engineering, R&D, Labs/Testing & Other","Salary","1999",49291
-"817","Engineering, R&D, Labs/Testing & Other","Salary","2000",53375
-"818","Engineering, R&D, Labs/Testing & Other","Salary","2001",56750
-"819","Engineering, R&D, Labs/Testing & Other","Salary","2002",56497
-"820","Engineering, R&D, Labs/Testing & Other","Salary","2003",56745
-"821","Engineering, R&D, Labs/Testing & Other","Salary","2004",58567
-"822","Engineering, R&D, Labs/Testing & Other","Salary","2005",59765
-"823","Engineering, R&D, Labs/Testing & Other","Salary","2006",63724
-"824","Engineering, R&D, Labs/Testing & Other","Salary","2007",64346
-"825","Engineering, R&D, Labs/Testing & Other","Salary","2008",65096
-"826","Engineering, R&D, Labs/Testing & Other","Salary","2009",72540
-"827","Engineering, R&D, Labs/Testing & Other","Salary","2010",77589
-"828","Engineering, R&D, Labs/Testing & Other","Salary","2011",81051
-"829","Engineering, R&D, Labs/Testing & Other","Salary","2012",81638
-"830","Engineering, R&D, Labs/Testing & Other","Salary","2013",78499
-"831","Engineering, R&D, Labs/Testing & Other","Salary","2014",83539
-"832","Engineering, R&D, Labs/Testing & Other","Salary","2015",85557
-"833","Engineering, R&D, Labs/Testing & Other","Salary","2016",88424
-"834","Engineering, R&D, Labs/Testing & Other","Salary","2017",94540
-"835","Engineering, R&D, Labs/Testing & Other","Salary","2018",101052
-"836","Engineering, R&D, Labs/Testing & Other","Salary","2019",104066
-"837","Engineering, R&D, Labs/Testing & Other","Salary","2020",113573
+"280","Total, All Industries","Firm","1990",389806
+"281","Total, All Industries","Firm","1991",404931
+"282","Total, All Industries","Firm","1992",423604
+"283","Total, All Industries","Firm","1993",455292
+"284","Total, All Industries","Firm","1994",482858
+"285","Total, All Industries","Firm","1995",512883
+"286","Total, All Industries","Firm","1996",535024
+"287","Total, All Industries","Firm","1997",560543
+"288","Total, All Industries","Firm","1998",595181
+"289","Total, All Industries","Firm","1999",628915
+"290","Total, All Industries","Firm","2000",665233
+"291","Total, All Industries","Firm","2001",665914
+"292","Total, All Industries","Firm","2002",651102
+"293","Total, All Industries","Firm","2003",645120
+"294","Total, All Industries","Firm","2004",656263
+"295","Total, All Industries","Firm","2005",686655
+"296","Total, All Industries","Firm","2006",714307
+"297","Total, All Industries","Firm","2007",750696
+"298","Total, All Industries","Firm","2008",764398
+"299","Total, All Industries","Firm","2009",743584
+"300","Total, All Industries","Firm","2010",754767
+"301","Total, All Industries","Firm","2011",782416
+"302","Total, All Industries","Firm","2012",812602
+"303","Total, All Industries","Firm","2013",845805
+"304","Total, All Industries","Firm","2014",881613
+"305","Total, All Industries","Firm","2015",922922
+"306","Total, All Industries","Firm","2016",953719
+"307","Total, All Industries","Firm","2017",984634
+"308","Total, All Industries","Firm","2018",1020801
+"309","Total, All Industries","Firm","2019",1061199
+"310","Total, All Industries","Firm","2020",1030371
+"311","Manufacturing","Firm","1990",47214
+"312","Manufacturing","Firm","1991",50874
+"313","Manufacturing","Firm","1992",53374
+"314","Manufacturing","Firm","1993",56680
+"315","Manufacturing","Firm","1994",59849
+"316","Manufacturing","Firm","1995",64198
+"317","Manufacturing","Firm","1996",67796
+"318","Manufacturing","Firm","1997",71070
+"319","Manufacturing","Firm","1998",76632
+"320","Manufacturing","Firm","1999",76470
+"321","Manufacturing","Firm","2000",82818
+"322","Manufacturing","Firm","2001",76324
+"323","Manufacturing","Firm","2002",63252
+"324","Manufacturing","Firm","2003",58386
+"325","Manufacturing","Firm","2004",57791
+"326","Manufacturing","Firm","2005",57297
+"327","Manufacturing","Firm","2006",59039
+"328","Manufacturing","Firm","2007",60260
+"329","Manufacturing","Firm","2008",58280
+"330","Manufacturing","Firm","2009",48932
+"331","Manufacturing","Firm","2010",47569
+"332","Manufacturing","Firm","2011",49715
+"333","Manufacturing","Firm","2012",50970
+"334","Manufacturing","Firm","2013",52324
+"335","Manufacturing","Firm","2014",57365
+"336","Manufacturing","Firm","2015",57869
+"337","Manufacturing","Firm","2016",55326
+"338","Manufacturing","Firm","2017",56986
+"339","Manufacturing","Firm","2018",60175
+"340","Manufacturing","Firm","2019",62087
+"341","Manufacturing","Firm","2020",61904
+"342","TOTAL HIGH TECH","Firm","1990",58766
+"343","TOTAL HIGH TECH","Firm","1991",63123
+"344","TOTAL HIGH TECH","Firm","1992",65437
+"345","TOTAL HIGH TECH","Firm","1993",70005
+"346","TOTAL HIGH TECH","Firm","1994",71454
+"347","TOTAL HIGH TECH","Firm","1995",77343
+"348","TOTAL HIGH TECH","Firm","1996",83774
+"349","TOTAL HIGH TECH","Firm","1997",90617
+"350","TOTAL HIGH TECH","Firm","1998",102015
+"351","TOTAL HIGH TECH","Firm","1999",111879
+"352","TOTAL HIGH TECH","Firm","2000",126175
+"353","TOTAL HIGH TECH","Firm","2001",119417
+"354","TOTAL HIGH TECH","Firm","2002",106577
+"355","TOTAL HIGH TECH","Firm","2003",101866
+"356","TOTAL HIGH TECH","Firm","2004",102432
+"357","TOTAL HIGH TECH","Firm","2005",106022
+"358","TOTAL HIGH TECH","Firm","2006",109087
+"359","TOTAL HIGH TECH","Firm","2007",114863
+"360","TOTAL HIGH TECH","Firm","2008",114487
+"361","TOTAL HIGH TECH","Firm","2009",106333
+"362","TOTAL HIGH TECH","Firm","2010",108860
+"363","TOTAL HIGH TECH","Firm","2011",116250
+"364","TOTAL HIGH TECH","Firm","2012",121795
+"365","TOTAL HIGH TECH","Firm","2013",127780
+"366","TOTAL HIGH TECH","Firm","2014",134090
+"367","TOTAL HIGH TECH","Firm","2015",141836
+"368","TOTAL HIGH TECH","Firm","2016",143136
+"369","TOTAL HIGH TECH","Firm","2017",148948
+"370","TOTAL HIGH TECH","Firm","2018",158594
+"371","TOTAL HIGH TECH","Firm","2019",170428
+"372","TOTAL HIGH TECH","Firm","2020",176405
+"373","HIGH TECH MANUFACTURING","Firm","1990",31916
+"374","HIGH TECH MANUFACTURING","Firm","1991",35627
+"375","HIGH TECH MANUFACTURING","Firm","1992",37316
+"376","HIGH TECH MANUFACTURING","Firm","1993",39365
+"377","HIGH TECH MANUFACTURING","Firm","1994",40863
+"378","HIGH TECH MANUFACTURING","Firm","1995",44106
+"379","HIGH TECH MANUFACTURING","Firm","1996",47122
+"380","HIGH TECH MANUFACTURING","Firm","1997",49039
+"381","HIGH TECH MANUFACTURING","Firm","1998",53962
+"382","HIGH TECH MANUFACTURING","Firm","1999",52756
+"383","HIGH TECH MANUFACTURING","Firm","2000",55403
+"384","HIGH TECH MANUFACTURING","Firm","2001",49684
+"385","HIGH TECH MANUFACTURING","Firm","2002",40000
+"386","HIGH TECH MANUFACTURING","Firm","2003",36635
+"387","HIGH TECH MANUFACTURING","Firm","2004",36383
+"388","HIGH TECH MANUFACTURING","Firm","2005",35919
+"389","HIGH TECH MANUFACTURING","Firm","2006",36841
+"390","HIGH TECH MANUFACTURING","Firm","2007",36856
+"391","HIGH TECH MANUFACTURING","Firm","2008",35576
+"392","HIGH TECH MANUFACTURING","Firm","2009",31024
+"393","HIGH TECH MANUFACTURING","Firm","2010",30703
+"394","HIGH TECH MANUFACTURING","Firm","2011",32183
+"395","HIGH TECH MANUFACTURING","Firm","2012",33085
+"396","HIGH TECH MANUFACTURING","Firm","2013",33171
+"397","HIGH TECH MANUFACTURING","Firm","2014",37524
+"398","HIGH TECH MANUFACTURING","Firm","2015",37419
+"399","HIGH TECH MANUFACTURING","Firm","2016",34512
+"400","HIGH TECH MANUFACTURING","Firm","2017",35308
+"401","HIGH TECH MANUFACTURING","Firm","2018",37295
+"402","HIGH TECH MANUFACTURING","Firm","2019",38980
+"403","HIGH TECH MANUFACTURING","Firm","2020",39270
+"404","HIGH TECH NONMANUFACTURING","Firm","1990",26849
+"405","HIGH TECH NONMANUFACTURING","Firm","1991",27495
+"406","HIGH TECH NONMANUFACTURING","Firm","1992",28120
+"407","HIGH TECH NONMANUFACTURING","Firm","1993",30639
+"408","HIGH TECH NONMANUFACTURING","Firm","1994",30590
+"409","HIGH TECH NONMANUFACTURING","Firm","1995",33236
+"410","HIGH TECH NONMANUFACTURING","Firm","1996",36652
+"411","HIGH TECH NONMANUFACTURING","Firm","1997",41578
+"412","HIGH TECH NONMANUFACTURING","Firm","1998",48052
+"413","HIGH TECH NONMANUFACTURING","Firm","1999",59123
+"414","HIGH TECH NONMANUFACTURING","Firm","2000",70771
+"415","HIGH TECH NONMANUFACTURING","Firm","2001",69733
+"416","HIGH TECH NONMANUFACTURING","Firm","2002",66576
+"417","HIGH TECH NONMANUFACTURING","Firm","2003",65230
+"418","HIGH TECH NONMANUFACTURING","Firm","2004",66048
+"419","HIGH TECH NONMANUFACTURING","Firm","2005",70103
+"420","HIGH TECH NONMANUFACTURING","Firm","2006",72246
+"421","HIGH TECH NONMANUFACTURING","Firm","2007",78006
+"422","HIGH TECH NONMANUFACTURING","Firm","2008",78910
+"423","HIGH TECH NONMANUFACTURING","Firm","2009",75309
+"424","HIGH TECH NONMANUFACTURING","Firm","2010",78157
+"425","HIGH TECH NONMANUFACTURING","Firm","2011",84066
+"426","HIGH TECH NONMANUFACTURING","Firm","2012",88710
+"427","HIGH TECH NONMANUFACTURING","Firm","2013",94608
+"428","HIGH TECH NONMANUFACTURING","Firm","2014",96566
+"429","HIGH TECH NONMANUFACTURING","Firm","2015",104417
+"430","HIGH TECH NONMANUFACTURING","Firm","2016",108623
+"431","HIGH TECH NONMANUFACTURING","Firm","2017",113640
+"432","HIGH TECH NONMANUFACTURING","Firm","2018",121299
+"433","HIGH TECH NONMANUFACTURING","Firm","2019",131448
+"434","HIGH TECH NONMANUFACTURING","Firm","2020",137135
+"435","High tech energy","Firm","1990",2806
+"436","High tech energy","Firm","1991",2877
+"437","High tech energy","Firm","1992",2902
+"438","High tech energy","Firm","1993",2870
+"439","High tech energy","Firm","1994",2956
+"440","High tech energy","Firm","1995",2963
+"441","High tech energy","Firm","1996",2884
+"442","High tech energy","Firm","1997",2832
+"443","High tech energy","Firm","1998",2938
+"444","High tech energy","Firm","1999",3015
+"445","High tech energy","Firm","2000",3239
+"446","High tech energy","Firm","2001",3524
+"447","High tech energy","Firm","2002",3990
+"448","High tech energy","Firm","2003",4127
+"449","High tech energy","Firm","2004",4220
+"450","High tech energy","Firm","2005",4801
+"451","High tech energy","Firm","2006",4888
+"452","High tech energy","Firm","2007",4934
+"453","High tech energy","Firm","2008",5137
+"454","High tech energy","Firm","2009",5228
+"455","High tech energy","Firm","2010",5367
+"456","High tech energy","Firm","2011",5331
+"457","High tech energy","Firm","2012",5101
+"458","High tech energy","Firm","2013",5063
+"459","High tech energy","Firm","2014",5811
+"460","High tech energy","Firm","2015",5915
+"461","High tech energy","Firm","2016",5791
+"462","High tech energy","Firm","2017",6140
+"463","High tech energy","Firm","2018",6385
+"464","High tech energy","Firm","2019",6252
+"465","High tech energy","Firm","2020",6164
+"466","High tech trade","Firm","1990",4719
+"467","High tech trade","Firm","1991",3490
+"468","High tech trade","Firm","1992",3134
+"469","High tech trade","Firm","1993",4399
+"470","High tech trade","Firm","1994",3986
+"471","High tech trade","Firm","1995",4604
+"472","High tech trade","Firm","1996",6134
+"473","High tech trade","Firm","1997",7400
+"474","High tech trade","Firm","1998",10129
+"475","High tech trade","Firm","1999",15777
+"476","High tech trade","Firm","2000",19456
+"477","High tech trade","Firm","2001",19238
+"478","High tech trade","Firm","2002",18326
+"479","High tech trade","Firm","2003",18758
+"480","High tech trade","Firm","2004",19678
+"481","High tech trade","Firm","2005",20444
+"482","High tech trade","Firm","2006",20682
+"483","High tech trade","Firm","2007",21956
+"484","High tech trade","Firm","2008",21864
+"485","High tech trade","Firm","2009",19332
+"486","High tech trade","Firm","2010",22141
+"487","High tech trade","Firm","2011",24011
+"488","High tech trade","Firm","2012",25562
+"489","High tech trade","Firm","2013",25629
+"490","High tech trade","Firm","2014",20900
+"491","High tech trade","Firm","2015",22348
+"492","High tech trade","Firm","2016",23484
+"493","High tech trade","Firm","2017",24058
+"494","High tech trade","Firm","2018",24522
+"495","High tech trade","Firm","2019",26551
+"496","High tech trade","Firm","2020",27502
+"497","High tech information & other IT","Firm","1990",7834
+"498","High tech information & other IT","Firm","1991",9282
+"499","High tech information & other IT","Firm","1992",9812
+"500","High tech information & other IT","Firm","1993",10842
+"501","High tech information & other IT","Firm","1994",11047
+"502","High tech information & other IT","Firm","1995",12774
+"503","High tech information & other IT","Firm","1996",14787
+"504","High tech information & other IT","Firm","1997",17666
+"505","High tech information & other IT","Firm","1998",20821
+"506","High tech information & other IT","Firm","1999",25067
+"507","High tech information & other IT","Firm","2000",31634
+"508","High tech information & other IT","Firm","2001",29437
+"509","High tech information & other IT","Firm","2002",27501
+"510","High tech information & other IT","Firm","2003",25140
+"511","High tech information & other IT","Firm","2004",24847
+"512","High tech information & other IT","Firm","2005",26038
+"513","High tech information & other IT","Firm","2006",27088
+"514","High tech information & other IT","Firm","2007",29167
+"515","High tech information & other IT","Firm","2008",29134
+"516","High tech information & other IT","Firm","2009",27843
+"517","High tech information & other IT","Firm","2010",27446
+"518","High tech information & other IT","Firm","2011",31185
+"519","High tech information & other IT","Firm","2012",34862
+"520","High tech information & other IT","Firm","2013",40264
+"521","High tech information & other IT","Firm","2014",45712
+"522","High tech information & other IT","Firm","2015",51233
+"523","High tech information & other IT","Firm","2016",54401
+"524","High tech information & other IT","Firm","2017",58839
+"525","High tech information & other IT","Firm","2018",64458
+"526","High tech information & other IT","Firm","2019",69768
+"527","High tech information & other IT","Firm","2020",73407
+"528","Engineering, R&D, Labs/Testing & Other","Firm","1990",11489
+"529","Engineering, R&D, Labs/Testing & Other","Firm","1991",11845
+"530","Engineering, R&D, Labs/Testing & Other","Firm","1992",12271
+"531","Engineering, R&D, Labs/Testing & Other","Firm","1993",12527
+"532","Engineering, R&D, Labs/Testing & Other","Firm","1994",12601
+"533","Engineering, R&D, Labs/Testing & Other","Firm","1995",12894
+"534","Engineering, R&D, Labs/Testing & Other","Firm","1996",12845
+"535","Engineering, R&D, Labs/Testing & Other","Firm","1997",13679
+"536","Engineering, R&D, Labs/Testing & Other","Firm","1998",14163
+"537","Engineering, R&D, Labs/Testing & Other","Firm","1999",15262
+"538","Engineering, R&D, Labs/Testing & Other","Firm","2000",16441
+"539","Engineering, R&D, Labs/Testing & Other","Firm","2001",17533
+"540","Engineering, R&D, Labs/Testing & Other","Firm","2002",16758
+"541","Engineering, R&D, Labs/Testing & Other","Firm","2003",17204
+"542","Engineering, R&D, Labs/Testing & Other","Firm","2004",17302
+"543","Engineering, R&D, Labs/Testing & Other","Firm","2005",18819
+"544","Engineering, R&D, Labs/Testing & Other","Firm","2006",19587
+"545","Engineering, R&D, Labs/Testing & Other","Firm","2007",21948
+"546","Engineering, R&D, Labs/Testing & Other","Firm","2008",22774
+"547","Engineering, R&D, Labs/Testing & Other","Firm","2009",22905
+"548","Engineering, R&D, Labs/Testing & Other","Firm","2010",23201
+"549","Engineering, R&D, Labs/Testing & Other","Firm","2011",23537
+"550","Engineering, R&D, Labs/Testing & Other","Firm","2012",23183
+"551","Engineering, R&D, Labs/Testing & Other","Firm","2013",23651
+"552","Engineering, R&D, Labs/Testing & Other","Firm","2014",24141
+"553","Engineering, R&D, Labs/Testing & Other","Firm","2015",24920
+"554","Engineering, R&D, Labs/Testing & Other","Firm","2016",24945
+"555","Engineering, R&D, Labs/Testing & Other","Firm","2017",24601
+"556","Engineering, R&D, Labs/Testing & Other","Firm","2018",25932
+"557","Engineering, R&D, Labs/Testing & Other","Firm","2019",28875
+"558","Engineering, R&D, Labs/Testing & Other","Firm","2020",30060
+"559","Total, All Industries","Salary","1990",389806
+"560","Total, All Industries","Salary","1991",404931
+"561","Total, All Industries","Salary","1992",423604
+"562","Total, All Industries","Salary","1993",455292
+"563","Total, All Industries","Salary","1994",482858
+"564","Total, All Industries","Salary","1995",512883
+"565","Total, All Industries","Salary","1996",535024
+"566","Total, All Industries","Salary","1997",560543
+"567","Total, All Industries","Salary","1998",595181
+"568","Total, All Industries","Salary","1999",628915
+"569","Total, All Industries","Salary","2000",665233
+"570","Total, All Industries","Salary","2001",665914
+"571","Total, All Industries","Salary","2002",651102
+"572","Total, All Industries","Salary","2003",645120
+"573","Total, All Industries","Salary","2004",656263
+"574","Total, All Industries","Salary","2005",686655
+"575","Total, All Industries","Salary","2006",714307
+"576","Total, All Industries","Salary","2007",750696
+"577","Total, All Industries","Salary","2008",764398
+"578","Total, All Industries","Salary","2009",743584
+"579","Total, All Industries","Salary","2010",754767
+"580","Total, All Industries","Salary","2011",782416
+"581","Total, All Industries","Salary","2012",812602
+"582","Total, All Industries","Salary","2013",845805
+"583","Total, All Industries","Salary","2014",881613
+"584","Total, All Industries","Salary","2015",922922
+"585","Total, All Industries","Salary","2016",953719
+"586","Total, All Industries","Salary","2017",984634
+"587","Total, All Industries","Salary","2018",1020801
+"588","Total, All Industries","Salary","2019",1061199
+"589","Total, All Industries","Salary","2020",1030371
+"590","Manufacturing","Salary","1990",47214
+"591","Manufacturing","Salary","1991",50874
+"592","Manufacturing","Salary","1992",53374
+"593","Manufacturing","Salary","1993",56680
+"594","Manufacturing","Salary","1994",59849
+"595","Manufacturing","Salary","1995",64198
+"596","Manufacturing","Salary","1996",67796
+"597","Manufacturing","Salary","1997",71070
+"598","Manufacturing","Salary","1998",76632
+"599","Manufacturing","Salary","1999",76470
+"600","Manufacturing","Salary","2000",82818
+"601","Manufacturing","Salary","2001",76324
+"602","Manufacturing","Salary","2002",63252
+"603","Manufacturing","Salary","2003",58386
+"604","Manufacturing","Salary","2004",57791
+"605","Manufacturing","Salary","2005",57297
+"606","Manufacturing","Salary","2006",59039
+"607","Manufacturing","Salary","2007",60260
+"608","Manufacturing","Salary","2008",58280
+"609","Manufacturing","Salary","2009",48932
+"610","Manufacturing","Salary","2010",47569
+"611","Manufacturing","Salary","2011",49715
+"612","Manufacturing","Salary","2012",50970
+"613","Manufacturing","Salary","2013",52324
+"614","Manufacturing","Salary","2014",57365
+"615","Manufacturing","Salary","2015",57869
+"616","Manufacturing","Salary","2016",55326
+"617","Manufacturing","Salary","2017",56986
+"618","Manufacturing","Salary","2018",60175
+"619","Manufacturing","Salary","2019",62087
+"620","Manufacturing","Salary","2020",61904
+"621","TOTAL HIGH TECH","Salary","1990",58766
+"622","TOTAL HIGH TECH","Salary","1991",63123
+"623","TOTAL HIGH TECH","Salary","1992",65437
+"624","TOTAL HIGH TECH","Salary","1993",70005
+"625","TOTAL HIGH TECH","Salary","1994",71454
+"626","TOTAL HIGH TECH","Salary","1995",77343
+"627","TOTAL HIGH TECH","Salary","1996",83774
+"628","TOTAL HIGH TECH","Salary","1997",90617
+"629","TOTAL HIGH TECH","Salary","1998",102015
+"630","TOTAL HIGH TECH","Salary","1999",111879
+"631","TOTAL HIGH TECH","Salary","2000",126175
+"632","TOTAL HIGH TECH","Salary","2001",119417
+"633","TOTAL HIGH TECH","Salary","2002",106577
+"634","TOTAL HIGH TECH","Salary","2003",101866
+"635","TOTAL HIGH TECH","Salary","2004",102432
+"636","TOTAL HIGH TECH","Salary","2005",106022
+"637","TOTAL HIGH TECH","Salary","2006",109087
+"638","TOTAL HIGH TECH","Salary","2007",114863
+"639","TOTAL HIGH TECH","Salary","2008",114487
+"640","TOTAL HIGH TECH","Salary","2009",106333
+"641","TOTAL HIGH TECH","Salary","2010",108860
+"642","TOTAL HIGH TECH","Salary","2011",116250
+"643","TOTAL HIGH TECH","Salary","2012",121795
+"644","TOTAL HIGH TECH","Salary","2013",127780
+"645","TOTAL HIGH TECH","Salary","2014",134090
+"646","TOTAL HIGH TECH","Salary","2015",141836
+"647","TOTAL HIGH TECH","Salary","2016",143136
+"648","TOTAL HIGH TECH","Salary","2017",148948
+"649","TOTAL HIGH TECH","Salary","2018",158594
+"650","TOTAL HIGH TECH","Salary","2019",170428
+"651","TOTAL HIGH TECH","Salary","2020",176405
+"652","HIGH TECH MANUFACTURING","Salary","1990",31916
+"653","HIGH TECH MANUFACTURING","Salary","1991",35627
+"654","HIGH TECH MANUFACTURING","Salary","1992",37316
+"655","HIGH TECH MANUFACTURING","Salary","1993",39365
+"656","HIGH TECH MANUFACTURING","Salary","1994",40863
+"657","HIGH TECH MANUFACTURING","Salary","1995",44106
+"658","HIGH TECH MANUFACTURING","Salary","1996",47122
+"659","HIGH TECH MANUFACTURING","Salary","1997",49039
+"660","HIGH TECH MANUFACTURING","Salary","1998",53962
+"661","HIGH TECH MANUFACTURING","Salary","1999",52756
+"662","HIGH TECH MANUFACTURING","Salary","2000",55403
+"663","HIGH TECH MANUFACTURING","Salary","2001",49684
+"664","HIGH TECH MANUFACTURING","Salary","2002",40000
+"665","HIGH TECH MANUFACTURING","Salary","2003",36635
+"666","HIGH TECH MANUFACTURING","Salary","2004",36383
+"667","HIGH TECH MANUFACTURING","Salary","2005",35919
+"668","HIGH TECH MANUFACTURING","Salary","2006",36841
+"669","HIGH TECH MANUFACTURING","Salary","2007",36856
+"670","HIGH TECH MANUFACTURING","Salary","2008",35576
+"671","HIGH TECH MANUFACTURING","Salary","2009",31024
+"672","HIGH TECH MANUFACTURING","Salary","2010",30703
+"673","HIGH TECH MANUFACTURING","Salary","2011",32183
+"674","HIGH TECH MANUFACTURING","Salary","2012",33085
+"675","HIGH TECH MANUFACTURING","Salary","2013",33171
+"676","HIGH TECH MANUFACTURING","Salary","2014",37524
+"677","HIGH TECH MANUFACTURING","Salary","2015",37419
+"678","HIGH TECH MANUFACTURING","Salary","2016",34512
+"679","HIGH TECH MANUFACTURING","Salary","2017",35308
+"680","HIGH TECH MANUFACTURING","Salary","2018",37295
+"681","HIGH TECH MANUFACTURING","Salary","2019",38980
+"682","HIGH TECH MANUFACTURING","Salary","2020",39270
+"683","HIGH TECH NONMANUFACTURING","Salary","1990",26849
+"684","HIGH TECH NONMANUFACTURING","Salary","1991",27495
+"685","HIGH TECH NONMANUFACTURING","Salary","1992",28120
+"686","HIGH TECH NONMANUFACTURING","Salary","1993",30639
+"687","HIGH TECH NONMANUFACTURING","Salary","1994",30590
+"688","HIGH TECH NONMANUFACTURING","Salary","1995",33236
+"689","HIGH TECH NONMANUFACTURING","Salary","1996",36652
+"690","HIGH TECH NONMANUFACTURING","Salary","1997",41578
+"691","HIGH TECH NONMANUFACTURING","Salary","1998",48052
+"692","HIGH TECH NONMANUFACTURING","Salary","1999",59123
+"693","HIGH TECH NONMANUFACTURING","Salary","2000",70771
+"694","HIGH TECH NONMANUFACTURING","Salary","2001",69733
+"695","HIGH TECH NONMANUFACTURING","Salary","2002",66576
+"696","HIGH TECH NONMANUFACTURING","Salary","2003",65230
+"697","HIGH TECH NONMANUFACTURING","Salary","2004",66048
+"698","HIGH TECH NONMANUFACTURING","Salary","2005",70103
+"699","HIGH TECH NONMANUFACTURING","Salary","2006",72246
+"700","HIGH TECH NONMANUFACTURING","Salary","2007",78006
+"701","HIGH TECH NONMANUFACTURING","Salary","2008",78910
+"702","HIGH TECH NONMANUFACTURING","Salary","2009",75309
+"703","HIGH TECH NONMANUFACTURING","Salary","2010",78157
+"704","HIGH TECH NONMANUFACTURING","Salary","2011",84066
+"705","HIGH TECH NONMANUFACTURING","Salary","2012",88710
+"706","HIGH TECH NONMANUFACTURING","Salary","2013",94608
+"707","HIGH TECH NONMANUFACTURING","Salary","2014",96566
+"708","HIGH TECH NONMANUFACTURING","Salary","2015",104417
+"709","HIGH TECH NONMANUFACTURING","Salary","2016",108623
+"710","HIGH TECH NONMANUFACTURING","Salary","2017",113640
+"711","HIGH TECH NONMANUFACTURING","Salary","2018",121299
+"712","HIGH TECH NONMANUFACTURING","Salary","2019",131448
+"713","HIGH TECH NONMANUFACTURING","Salary","2020",137135
+"714","High tech energy","Salary","1990",2806
+"715","High tech energy","Salary","1991",2877
+"716","High tech energy","Salary","1992",2902
+"717","High tech energy","Salary","1993",2870
+"718","High tech energy","Salary","1994",2956
+"719","High tech energy","Salary","1995",2963
+"720","High tech energy","Salary","1996",2884
+"721","High tech energy","Salary","1997",2832
+"722","High tech energy","Salary","1998",2938
+"723","High tech energy","Salary","1999",3015
+"724","High tech energy","Salary","2000",3239
+"725","High tech energy","Salary","2001",3524
+"726","High tech energy","Salary","2002",3990
+"727","High tech energy","Salary","2003",4127
+"728","High tech energy","Salary","2004",4220
+"729","High tech energy","Salary","2005",4801
+"730","High tech energy","Salary","2006",4888
+"731","High tech energy","Salary","2007",4934
+"732","High tech energy","Salary","2008",5137
+"733","High tech energy","Salary","2009",5228
+"734","High tech energy","Salary","2010",5367
+"735","High tech energy","Salary","2011",5331
+"736","High tech energy","Salary","2012",5101
+"737","High tech energy","Salary","2013",5063
+"738","High tech energy","Salary","2014",5811
+"739","High tech energy","Salary","2015",5915
+"740","High tech energy","Salary","2016",5791
+"741","High tech energy","Salary","2017",6140
+"742","High tech energy","Salary","2018",6385
+"743","High tech energy","Salary","2019",6252
+"744","High tech energy","Salary","2020",6164
+"745","High tech trade","Salary","1990",4719
+"746","High tech trade","Salary","1991",3490
+"747","High tech trade","Salary","1992",3134
+"748","High tech trade","Salary","1993",4399
+"749","High tech trade","Salary","1994",3986
+"750","High tech trade","Salary","1995",4604
+"751","High tech trade","Salary","1996",6134
+"752","High tech trade","Salary","1997",7400
+"753","High tech trade","Salary","1998",10129
+"754","High tech trade","Salary","1999",15777
+"755","High tech trade","Salary","2000",19456
+"756","High tech trade","Salary","2001",19238
+"757","High tech trade","Salary","2002",18326
+"758","High tech trade","Salary","2003",18758
+"759","High tech trade","Salary","2004",19678
+"760","High tech trade","Salary","2005",20444
+"761","High tech trade","Salary","2006",20682
+"762","High tech trade","Salary","2007",21956
+"763","High tech trade","Salary","2008",21864
+"764","High tech trade","Salary","2009",19332
+"765","High tech trade","Salary","2010",22141
+"766","High tech trade","Salary","2011",24011
+"767","High tech trade","Salary","2012",25562
+"768","High tech trade","Salary","2013",25629
+"769","High tech trade","Salary","2014",20900
+"770","High tech trade","Salary","2015",22348
+"771","High tech trade","Salary","2016",23484
+"772","High tech trade","Salary","2017",24058
+"773","High tech trade","Salary","2018",24522
+"774","High tech trade","Salary","2019",26551
+"775","High tech trade","Salary","2020",27502
+"776","High tech information & other IT","Salary","1990",7834
+"777","High tech information & other IT","Salary","1991",9282
+"778","High tech information & other IT","Salary","1992",9812
+"779","High tech information & other IT","Salary","1993",10842
+"780","High tech information & other IT","Salary","1994",11047
+"781","High tech information & other IT","Salary","1995",12774
+"782","High tech information & other IT","Salary","1996",14787
+"783","High tech information & other IT","Salary","1997",17666
+"784","High tech information & other IT","Salary","1998",20821
+"785","High tech information & other IT","Salary","1999",25067
+"786","High tech information & other IT","Salary","2000",31634
+"787","High tech information & other IT","Salary","2001",29437
+"788","High tech information & other IT","Salary","2002",27501
+"789","High tech information & other IT","Salary","2003",25140
+"790","High tech information & other IT","Salary","2004",24847
+"791","High tech information & other IT","Salary","2005",26038
+"792","High tech information & other IT","Salary","2006",27088
+"793","High tech information & other IT","Salary","2007",29167
+"794","High tech information & other IT","Salary","2008",29134
+"795","High tech information & other IT","Salary","2009",27843
+"796","High tech information & other IT","Salary","2010",27446
+"797","High tech information & other IT","Salary","2011",31185
+"798","High tech information & other IT","Salary","2012",34862
+"799","High tech information & other IT","Salary","2013",40264
+"800","High tech information & other IT","Salary","2014",45712
+"801","High tech information & other IT","Salary","2015",51233
+"802","High tech information & other IT","Salary","2016",54401
+"803","High tech information & other IT","Salary","2017",58839
+"804","High tech information & other IT","Salary","2018",64458
+"805","High tech information & other IT","Salary","2019",69768
+"806","High tech information & other IT","Salary","2020",73407
+"807","Engineering, R&D, Labs/Testing & Other","Salary","1990",11489
+"808","Engineering, R&D, Labs/Testing & Other","Salary","1991",11845
+"809","Engineering, R&D, Labs/Testing & Other","Salary","1992",12271
+"810","Engineering, R&D, Labs/Testing & Other","Salary","1993",12527
+"811","Engineering, R&D, Labs/Testing & Other","Salary","1994",12601
+"812","Engineering, R&D, Labs/Testing & Other","Salary","1995",12894
+"813","Engineering, R&D, Labs/Testing & Other","Salary","1996",12845
+"814","Engineering, R&D, Labs/Testing & Other","Salary","1997",13679
+"815","Engineering, R&D, Labs/Testing & Other","Salary","1998",14163
+"816","Engineering, R&D, Labs/Testing & Other","Salary","1999",15262
+"817","Engineering, R&D, Labs/Testing & Other","Salary","2000",16441
+"818","Engineering, R&D, Labs/Testing & Other","Salary","2001",17533
+"819","Engineering, R&D, Labs/Testing & Other","Salary","2002",16758
+"820","Engineering, R&D, Labs/Testing & Other","Salary","2003",17204
+"821","Engineering, R&D, Labs/Testing & Other","Salary","2004",17302
+"822","Engineering, R&D, Labs/Testing & Other","Salary","2005",18819
+"823","Engineering, R&D, Labs/Testing & Other","Salary","2006",19587
+"824","Engineering, R&D, Labs/Testing & Other","Salary","2007",21948
+"825","Engineering, R&D, Labs/Testing & Other","Salary","2008",22774
+"826","Engineering, R&D, Labs/Testing & Other","Salary","2009",22905
+"827","Engineering, R&D, Labs/Testing & Other","Salary","2010",23201
+"828","Engineering, R&D, Labs/Testing & Other","Salary","2011",23537
+"829","Engineering, R&D, Labs/Testing & Other","Salary","2012",23183
+"830","Engineering, R&D, Labs/Testing & Other","Salary","2013",23651
+"831","Engineering, R&D, Labs/Testing & Other","Salary","2014",24141
+"832","Engineering, R&D, Labs/Testing & Other","Salary","2015",24920
+"833","Engineering, R&D, Labs/Testing & Other","Salary","2016",24945
+"834","Engineering, R&D, Labs/Testing & Other","Salary","2017",24601
+"835","Engineering, R&D, Labs/Testing & Other","Salary","2018",25932
+"836","Engineering, R&D, Labs/Testing & Other","Salary","2019",28875
+"837","Engineering, R&D, Labs/Testing & Other","Salary","2020",30060
